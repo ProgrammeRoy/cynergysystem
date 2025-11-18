@@ -1,0 +1,7 @@
+{
+  "name": "Vistral 3D - Soluciones Inmersivas",
+  "description": "Sitio web profesional para servicios de visualización 3D, recorridos virtuales y experiencias interactivas para inmobiliarias, turismo, museos y educación.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
